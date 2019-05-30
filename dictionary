@@ -1,0 +1,3 @@
+compiler: A compiler interprets source code for the machines ("zeros and ones")
+about compilers: Writing in c or cplusplus you must create a compiler with clang for example. In python that isn't necessary because
+python has a built-in compiler that compiler source code into byte code. 
