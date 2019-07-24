@@ -1,0 +1,11 @@
+framework for web development
+
+root:contains elements directly connected to the website
+index.html:homepage, must be named "index.html or index.htm" for compability 
+
+pages:contains all sub-pages
+images:contains all images
+js:contains javascript
+css:constains css
+
+clarification: index.html file should go with your directories but all other files into directories
